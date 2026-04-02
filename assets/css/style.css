@@ -259,6 +259,10 @@ h3 {
   transition: background 0.2s;
 }
 
+.event-reservations a:visited {
+  color: var(--white);
+}
+
 .event-reservations a:hover {
   background: var(--green-dark);
   color: var(--white);
