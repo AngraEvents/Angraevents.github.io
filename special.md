@@ -41,6 +41,9 @@ title: Special Events - Angra Events
       {% endfor %}
     </ul>
     {% endif %}
+    {% if event.instagram %}
+    <a class="event-source" href="{{ event.instagram }}" target="_blank" rel="noopener">📸 View on Instagram</a>
+    {% endif %}
   </div>
   {% if event.image %}
   <div class="event-image">
