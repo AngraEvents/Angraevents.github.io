@@ -10,19 +10,23 @@ title: Angra Events - What's Happening in Angra do Heroísmo
 </div>
 
 <div class="homepage-buttons">
-  <a href="{{ '/weekly' | relative_url }}" class="homepage-btn">
+  <a href="{{ '/weekly' | relative_url }}" class="homepage-btn btn-weekly">
+    <span class="btn-icon">&#127926;</span>
     <span class="btn-title">Weekly Events</span>
     <span class="btn-desc">Karaoke, dance nights, and other recurring events happening every week</span>
   </a>
-  <a href="{{ '/special' | relative_url }}" class="homepage-btn">
+  <a href="{{ '/special' | relative_url }}" class="homepage-btn btn-special">
+    <span class="btn-icon">&#127882;</span>
     <span class="btn-title">Special Events</span>
     <span class="btn-desc">Concerts, festivals, parties, and one-off events</span>
   </a>
-  <a href="{{ '/venues' | relative_url }}" class="homepage-btn">
+  <a href="{{ '/venues' | relative_url }}" class="homepage-btn btn-venues">
+    <span class="btn-icon">&#127963;</span>
     <span class="btn-title">Venues</span>
     <span class="btn-desc">Bars, restaurants, and spaces hosting events around Angra</span>
   </a>
-  <a href="{{ '/resources' | relative_url }}" class="homepage-btn">
+  <a href="{{ '/resources' | relative_url }}" class="homepage-btn btn-resources">
+    <span class="btn-icon">&#128204;</span>
     <span class="btn-title">Other Resources</span>
     <span class="btn-desc">Bullfight Finder, city event pages, and more</span>
   </a>
