@@ -118,3 +118,12 @@ title: Venues - Angra Events
     <p>Terceira's bullring, home to the Arraial Taurino and traditional bullfighting festivals during the season (May&ndash;October).</p>
   </div>
 </div>
+
+<div class="venue-card">
+  <h3>Audit&oacute;rio AMIT (Academia Musical da Ilha Terceira)</h3>
+  <div class="venue-address">Angra do Heroísmo &middot; <a href="https://www.google.com/maps/search/?api=1&query=Academia+Musical+Ilha+Terceira+Angra+do+Hero%C3%ADsmo">Map</a></div>
+  <div class="venue-regulars">
+    <p>Auditorium of the Musical Academy of Terceira Island. Hosts concerts, recitals, jazz courses, and choral performances.</p>
+    <p><a href="https://www.instagram.com/auditorioamit/">Instagram</a></p>
+  </div>
+</div>
