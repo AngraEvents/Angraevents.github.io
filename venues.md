@@ -31,6 +31,7 @@ title: Venues - Angra Events
       <li><strong>Saturday</strong> &mdash; Karaoke Night</li>
     </ul>
     <p><a href="https://www.thetexan.pt">Website</a> &middot; <a href="https://www.instagram.com/thetexanbar/">Instagram (Texan)</a> &middot; <a href="https://www.instagram.com/thegardenclub.angra/">Instagram (Garden Club)</a></p>
+    <div class="event-reservations"><a href="https://the-texan-1755256381.resos.com/booking">Make a dinner reservation</a></div>
   </div>
 </div>
 
@@ -39,7 +40,7 @@ title: Venues - Angra Events
   <div class="venue-address">Praça Almeida Garrett 11, Angra do Heroísmo &middot; <a href="https://www.google.com/maps/search/?api=1&query=Sala+319+Angra+do+Hero%C3%ADsmo">Map</a></div>
   <div class="venue-regulars">
     <p>Restaurant and bar serving Portuguese and European cuisine, with events and live music.</p>
-    <p><a href="https://www.instagram.com/sala.319/">Instagram</a></p>
+    <p><a href="https://www.instagram.com/sala.319/">Instagram</a> &middot; Reservations: +351 967 021 868</p>
   </div>
 </div>
 
@@ -71,7 +72,7 @@ title: Venues - Angra Events
   <div class="venue-address">Rua da Esperança 48-52, Angra do Heroísmo &middot; <a href="https://www.google.com/maps/search/?api=1&query=Teatro+Angrense+Angra+do+Hero%C3%ADsmo">Map</a></div>
   <div class="venue-regulars">
     <p>Historic theater in the UNESCO-listed city center. Hosts plays, concerts, fado nights, and the annual Festival de Teatro. One of the main cultural venues on Terceira.</p>
-    <p><a href="https://angradoheroismo.pt/local/teatro-angrense-2/">Website</a></p>
+    <p><a href="https://angradoheroismo.pt/local/teatro-angrense-2/">Website</a> &middot; <a href="https://ticketline.sapo.pt/en/salas/sala/1293">Tickets (Ticketline)</a></p>
   </div>
 </div>
 
@@ -80,7 +81,7 @@ title: Venues - Angra Events
   <div class="venue-address">Canada Nova, Santa Luzia, Angra do Heroísmo &middot; <a href="https://www.google.com/maps/search/?api=1&query=Centro+Cultural+e+de+Congressos+Angra+do+Hero%C3%ADsmo">Map</a></div>
   <div class="venue-regulars">
     <p>Angra's main cultural and conference center, converted from the former bullring. Hosts cinema screenings, music festivals, exhibitions, and conferences. Home to Festival Term&oacute;metro and regular film programming.</p>
-    <p><a href="https://angradoheroismo.pt/local/centro-cultural-e-de-congressos-de-angra-do-heroismo/">Website</a></p>
+    <p><a href="https://angradoheroismo.pt/local/centro-cultural-e-de-congressos-de-angra-do-heroismo/">Website</a> &middot; <a href="https://ticketline.sapo.pt/en/salas/sala/1294">Tickets (Ticketline)</a></p>
   </div>
 </div>
 
@@ -89,7 +90,7 @@ title: Venues - Angra Events
   <div class="venue-address">Porto das Pipas 154, Angra do Heroísmo &middot; <a href="https://www.google.com/maps/search/?api=1&query=Havanna+Club+Angra+do+Hero%C3%ADsmo">Map</a></div>
   <div class="venue-regulars">
     <p>One of the busiest bars at the marina. DJ nights, karaoke-to-dancing Saturdays, and themed party events. Covered terrace with sea views.</p>
-    <p><a href="https://www.instagram.com/havannaangra/">Instagram</a></p>
+    <p><a href="https://www.instagram.com/havannaangra/">Instagram</a> &middot; Reservations: 917 746 773</p>
   </div>
 </div>
 
