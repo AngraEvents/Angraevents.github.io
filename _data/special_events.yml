@@ -1,3 +1,18 @@
+- date: 2026-03-21
+  name: "Equinócio da Primavera"
+  venue: Zona de Lazer de São Brás
+  address: São Brás, Terceira
+  time: "22:00"
+  description: "Full Range rave celebrating the spring equinox. Outdoor party with camping, bar on site, pet friendly. PLUR mentality — Peace, Love, Unity and Respect. First 20 ravers get a surprise kit!"
+  image: /assets/images/events/fullrange-equinocio-primavera-2026.jpg
+  organizer: Full Range
+  features:
+    - Camping available with showers
+    - Bar on site (cash & card)
+    - Pet friendly
+    - Bring your own cup (or buy for 1€)
+    - No unaccompanied minors
+
 - date: 2026-01-03
   name: "Concerto ao Vivo - Double Trouble"
   venue: Tasca do Camões
