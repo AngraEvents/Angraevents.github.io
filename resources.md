@@ -62,6 +62,7 @@ title: Other Resources - Angra Events
       <li><a href="https://www.instagram.com/havannaangra/">@havannaangra</a> &mdash; Havanna Club</li>
       <li><a href="https://www.instagram.com/livrarialardocelivro/">@livrarialardocelivro</a> &mdash; Lar Doce Livro</li>
       <li><a href="https://www.instagram.com/fullrange_rave/">@fullrange_rave</a> &mdash; Full Range (rave/electronic events)</li>
+      <li><a href="https://www.instagram.com/auditorioamit/">@auditorioamit</a> &mdash; Audit&oacute;rio AMIT (Academia Musical da Ilha Terceira)</li>
     </ul>
   </div>
 </div>
