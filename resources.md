@@ -64,6 +64,22 @@ title: Other Resources - Angra Events
 </div>
 
 <div class="venue-card">
+  <h3>Azores What's On</h3>
+  <div class="venue-regulars">
+    <p>Official Azores government event platform covering sports, music, gastronomy, festivals, and more across all islands. Also available as a mobile app with event alerts and GPS directions.</p>
+    <p><a href="https://whatson.azores.gov.pt/en/agenda/">whatson.azores.gov.pt</a></p>
+  </div>
+</div>
+
+<div class="venue-card">
+  <h3>CulturA&ccedil;ores &mdash; Agenda Cultural</h3>
+  <div class="venue-regulars">
+    <p>Cultural agenda from the Azores Regional Directorate of Culture. Covers exhibitions, performances, and cultural programming across the archipelago, filterable by island.</p>
+    <p><a href="https://cultura.azores.gov.pt/agenda-cultural">cultura.azores.gov.pt</a></p>
+  </div>
+</div>
+
+<div class="venue-card">
   <h3>Facebook Events</h3>
   <div class="venue-regulars">
     <p>Search Facebook Events for upcoming events on Terceira. Many local venues and organizations post events here that aren't listed elsewhere.</p>
@@ -103,6 +119,9 @@ title: Other Resources - Angra Events
       <li><a href="https://www.facebook.com/p/Havanna-Terceira-100059128671983/">Havanna Terceira</a> &mdash; party nights and DJ events</li>
       <li><a href="https://www.facebook.com/livrarialardocelivro/">Lar Doce Livro</a> &mdash; readings, book launches, cultural events</li>
       <li><a href="https://www.facebook.com/casadosal.angra/">Casa do Sal</a> &mdash; live music and community events</li>
+      <li><a href="https://www.facebook.com/MunicipioPraiaVitoria/">Munic&iacute;pio Praia da Vit&oacute;ria</a> &mdash; official Praia da Vit&oacute;ria city council page</li>
+      <li><a href="https://www.facebook.com/profile.php?id=1414455825467398">Teatro Angrense</a> &mdash; historic theater in Angra, performances and cultural programming</li>
+      <li><a href="https://www.facebook.com/groups/308361896484142/">Ilha Terceira - Eventos</a> &mdash; community group for sharing events across the island</li>
     </ul>
   </div>
 </div>
