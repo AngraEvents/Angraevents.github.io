@@ -9,24 +9,29 @@ title: "Contribute - Terceira Events"
 </div>
 
 <div class="homepage-buttons" style="max-width:580px;">
-  <a href="#" class="homepage-btn btn-weekly">
+  <a href="{{ '/suggest' | relative_url }}" class="homepage-btn btn-weekly">
+    <span class="btn-icon">&#128221;</span>
+    <span class="btn-title">Submit a Suggestion</span>
+    <span class="btn-desc">Fill out the form and we'll review it</span>
+  </a>
+  <a href="#use-the-app" class="homepage-btn btn-special">
     <span class="btn-icon">&#128241;</span>
     <span class="btn-title">Use the App</span>
-    <span class="btn-desc">Tap "Suggest Event" in the Terceira Events mobile app</span>
+    <span class="btn-desc">Tap "Suggest Event" in the mobile app</span>
   </a>
-  <a href="https://github.com/TerceiraEvents/Angraevents.github.io" class="homepage-btn btn-special" target="_blank" rel="noopener">
+  <a href="https://github.com/TerceiraEvents/Angraevents.github.io" class="homepage-btn btn-venues" target="_blank" rel="noopener">
     <span class="btn-icon">&#128187;</span>
     <span class="btn-title">Open a PR</span>
-    <span class="btn-desc">Submit changes directly on GitHub (if you're a nerd)</span>
+    <span class="btn-desc">Submit changes on GitHub (if you're a nerd)</span>
   </a>
-  <a href="https://www.instagram.com/chrisrackauckas/" class="homepage-btn btn-venues" target="_blank" rel="noopener">
+  <a href="https://www.instagram.com/chrisrackauckas/" class="homepage-btn btn-resources" target="_blank" rel="noopener">
     <span class="btn-icon">&#128242;</span>
     <span class="btn-title">Message Chris</span>
     <span class="btn-desc">Send a DM on Instagram @chrisrackauckas</span>
   </a>
 </div>
 
-<h2>Suggesting an Event from the App</h2>
+<h2 id="use-the-app">Suggesting an Event from the App</h2>
 
 <p class="section-intro">The easiest way to get an event on the site is to use the app. Here's how:</p>
 
